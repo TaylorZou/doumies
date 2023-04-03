@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.doumies.common.elasticsearch.config.RestHighLevelClientConfig,\
+  com.doumies.common.elasticsearch.service.ElasticSearchService

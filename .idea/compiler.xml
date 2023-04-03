@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-elasticsearch" />
+        <module name="pcs-boot" />
+        <module name="common-log" />
+        <module name="common-mybatis" />
+        <module name="ucs-boot" />
+        <module name="mcs-boot" />
+        <module name="ocs-api" />
+        <module name="ocs-boot" />
+        <module name="admin-api" />
+        <module name="common-core" />
+        <module name="common-redis" />
+        <module name="common-sms" />
+        <module name="doumies-gateway" />
+        <module name="common-rabbitmq" />
+        <module name="admin-boot" />
+        <module name="pcs-api" />
+        <module name="mcs-api" />
+        <module name="doumies-auth" />
+        <module name="common-web" />
+        <module name="ucs-api" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-api" options="-parameters" />
+      <module name="admin-boot" options="-parameters" />
+      <module name="common-core" options="-parameters" />
+      <module name="common-elasticsearch" options="-parameters" />
+      <module name="common-log" options="-parameters" />
+      <module name="common-mybatis" options="-parameters" />
+      <module name="common-rabbitmq" options="-parameters" />
+      <module name="common-redis" options="-parameters" />
+      <module name="common-sms" options="-parameters" />
+      <module name="common-web" options="-parameters" />
+      <module name="doumies-auth" options="-parameters" />
+      <module name="doumies-common" options="-parameters" />
+      <module name="doumies-gateway" options="-parameters" />
+      <module name="mcs-api" options="-parameters" />
+      <module name="mcs-boot" options="-parameters" />
+      <module name="ocs-api" options="-parameters" />
+      <module name="ocs-boot" options="-parameters" />
+      <module name="pcs-api" options="-parameters" />
+      <module name="pcs-boot" options="-parameters" />
+      <module name="ucs-api" options="-parameters" />
+      <module name="ucs-boot" options="-parameters" />
+    </option>
+  </component>
+</project>

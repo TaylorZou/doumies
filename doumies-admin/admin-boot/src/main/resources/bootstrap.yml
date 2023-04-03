@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: doumies-admin
+  profiles:
+    active: dev

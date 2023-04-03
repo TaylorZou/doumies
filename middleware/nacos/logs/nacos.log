@@ -1,0 +1,138 @@
+2023-04-03 20:41:42,402 INFO Starting Nacos v2.0.0 on DESKTOP-0ECT6TU with PID 196656 (E:\elephant_workspace\doumies\middleware\nacos\target\nacos-server.jar started by 8500 in E:\elephant_workspace\doumies\middleware\nacos\bin)
+
+2023-04-03 20:41:42,402 INFO The following profiles are active: standalone
+
+2023-04-03 20:41:48,795 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@4e1ce44' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-04-03 20:41:48,811 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-04-03 20:41:49,826 INFO Tomcat initialized with port(s): 8848 (http)
+
+2023-04-03 20:41:49,886 INFO Starting service [Tomcat]
+
+2023-04-03 20:41:49,887 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2023-04-03 20:41:50,397 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2023-04-03 20:41:50,456 INFO Initializing Spring embedded WebApplicationContext
+
+2023-04-03 20:41:50,457 INFO Root WebApplicationContext: initialization completed in 7960 ms
+
+2023-04-03 20:41:51,059 INFO HikariPool-1 - Starting...
+
+2023-04-03 20:41:51,100 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2023-04-03 20:41:52,234 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2023-04-03 20:41:52,238 INFO HikariPool-1 - Start completed.
+
+2023-04-03 20:41:54,649 INFO Nacos-related cluster resource initialization
+
+2023-04-03 20:41:54,673 INFO The cluster resource is initialized
+
+2023-04-03 20:41:55,244 INFO Reflections took 44 ms to scan 1 urls, producing 5 keys and 10 values 
+
+2023-04-03 20:41:55,290 INFO Reflections took 6 ms to scan 1 urls, producing 4 keys and 21 values 
+
+2023-04-03 20:41:55,306 INFO Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+
+2023-04-03 20:41:55,317 INFO Reflections took 2 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2023-04-03 20:41:55,688 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,690 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,697 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,700 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,703 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,712 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,713 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,714 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,714 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,715 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,715 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,716 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:55,716 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2023-04-03 20:41:56,377 INFO Reflections took 93 ms to scan 2 urls, producing 3 keys and 6 values 
+
+2023-04-03 20:41:56,443 INFO Reflections took 64 ms to scan 2 urls, producing 4 keys and 9 values 
+
+2023-04-03 20:41:56,533 INFO Reflections took 88 ms to scan 2 urls, producing 3 keys and 10 values 
+
+2023-04-03 20:41:56,540 INFO Reflections took 5 ms to scan 1 urls, producing 2 keys and 2 values 
+
+2023-04-03 20:41:56,601 INFO Reflections took 59 ms to scan 2 urls, producing 1 keys and 5 values 
+
+2023-04-03 20:41:56,686 INFO Reflections took 83 ms to scan 2 urls, producing 1 keys and 7 values 
+
+2023-04-03 20:41:56,764 INFO Reflections took 74 ms to scan 2 urls, producing 2 keys and 8 values 
+
+2023-04-03 20:41:56,768 INFO Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values 
+
+2023-04-03 20:41:59,682 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2023-04-03 20:41:59,793 INFO Adding welcome page: class path resource [static/index.html]
+
+2023-04-03 20:42:00,249 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2023-04-03 20:42:00,284 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4d290757, org.springframework.security.web.context.SecurityContextPersistenceFilter@6e93b0e7, org.springframework.security.web.header.HeaderWriterFilter@30ffb2a6, org.springframework.security.web.csrf.CsrfFilter@6903ed0e, org.springframework.security.web.authentication.logout.LogoutFilter@33a47707, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@62cd562d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6fc1a8f6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@720a1fd0, org.springframework.security.web.session.SessionManagementFilter@1cc41b77, org.springframework.security.web.access.ExceptionTranslationFilter@77b71c9]
+
+2023-04-03 20:42:00,421 INFO Initializing ExecutorService 'taskScheduler'
+
+2023-04-03 20:42:00,451 INFO Exposing 16 endpoint(s) beneath base path '/actuator'
+
+2023-04-03 20:42:00,618 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2023-04-03 20:42:00,623 INFO Started Nacos in 20.705 seconds (JVM running for 22.666)
+
+2023-04-03 20:42:00,623 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2023-04-03 20:42:00,685 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2023-04-03 20:42:00,686 INFO Initializing Servlet 'dispatcherServlet'
+
+2023-04-03 20:42:00,699 INFO Completed initialization in 13 ms
+
+2023-04-03 20:51:55,858 WARN clearConfigHistory start
+
+2023-04-03 20:51:55,888 INFO [capacityManagement] start correct usage
+
+2023-04-03 20:51:55,924 WARN clearConfigHistory, getBeforeStamp:2023-03-04 20:51:55.0, totalCount:106, pageSize:1000, removeTime:1
+
+2023-04-03 20:51:56,000 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-04-03 21:01:56,010 INFO [capacityManagement] start correct usage
+
+2023-04-03 21:01:56,010 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-04-03 21:01:56,073 WARN clearConfigHistory start
+
+2023-04-03 21:01:56,075 WARN clearConfigHistory, getBeforeStamp:2023-03-04 21:01:56.0, totalCount:106, pageSize:1000, removeTime:1
+
+2023-04-03 21:11:56,013 INFO [capacityManagement] start correct usage
+
+2023-04-03 21:11:56,013 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-04-03 21:11:56,091 WARN clearConfigHistory start
+
+2023-04-03 21:11:56,092 WARN clearConfigHistory, getBeforeStamp:2023-03-04 21:11:56.0, totalCount:106, pageSize:1000, removeTime:1
+
+2023-04-03 21:21:56,020 INFO [capacityManagement] start correct usage
+
+2023-04-03 21:21:56,020 INFO [capacityManagement] end correct usage, cost: 0s
+
+2023-04-03 21:21:56,098 WARN clearConfigHistory start
+
+2023-04-03 21:21:56,099 WARN clearConfigHistory, getBeforeStamp:2023-03-04 21:21:56.0, totalCount:106, pageSize:1000, removeTime:1
+

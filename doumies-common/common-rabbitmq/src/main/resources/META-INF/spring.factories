@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.doumies.common.rabbitmq.config.RabbitMQConfig,\
+  com.doumies.common.rabbitmq.queue.OrderCloseQueue

@@ -1,0 +1,26 @@
+2023-04-03 20:41:55,689 INFO [dump-all-ok] doumies-common.yaml+DEFAULT_GROUP, 1677848318406, length=354, md5=8c6dc52eceba93df89e79526615b65b7
+
+2023-04-03 20:41:55,695 INFO [dump-all-ok] doumies-auth.yaml+DEFAULT_GROUP, 1677845730791, length=1559, md5=998a5899f14c12750d0cd00105799904
+
+2023-04-03 20:41:55,698 INFO [dump-all-ok] doumies-admin.yaml+DEFAULT_GROUP, 1677845730791, length=2315, md5=28f460d68ccba8812b2e146068da7894
+
+2023-04-03 20:41:55,700 INFO [dump-all-ok] doumies-gateway.yaml+DEFAULT_GROUP, 1677845730791, length=2401, md5=79293af23fd3d59c1629197282da060c
+
+2023-04-03 20:41:55,704 INFO [dump-all-ok] doumies-mcs.yaml+DEFAULT_GROUP, 1677851691747, length=1211, md5=3203c51aaafa72ffc38f337fc49337c3
+
+2023-04-03 20:41:55,713 INFO [dump-all-ok] doumies-ocs.yaml+DEFAULT_GROUP, 1677852510337, length=1804, md5=75ba37a6a87e80e1a4bff5e251e132b4
+
+2023-04-03 20:41:55,713 INFO [dump-all-ok] doumies-pcs.yaml+DEFAULT_GROUP, 1677848800210, length=2025, md5=4023cc3bc47a373762a6e273a542cef2
+
+2023-04-03 20:41:55,714 INFO [dump-all-ok] doumies-ucs.yaml+DEFAULT_GROUP, 1677845730791, length=1719, md5=46ffbd117b48fae15118f131c8eebddd
+
+2023-04-03 20:41:55,715 INFO [dump-all-ok] doumies-admin-degrade-rules+SENTINEL_GROUP, 1677826763746, length=169, md5=64d2ece8966cf69eea928b516b7a0fbf
+
+2023-04-03 20:41:55,715 INFO [dump-all-ok] doumies-admin-flow-rules+SENTINEL_GROUP, 1677826763746, length=148, md5=60bc291a23e628e166a4c359de712887
+
+2023-04-03 20:41:55,715 INFO [dump-all-ok] doumies-auth-degrade-rules+SENTINEL_GROUP, 1677826763746, length=135, md5=021e9000bcabfe6ac0b7140844e04533
+
+2023-04-03 20:41:55,716 INFO [dump-all-ok] doumies-gateway-gw-api-group-rules+SENTINEL_GROUP, 1677826763746, length=320, md5=a0063dc44299162f0fe4cd0a4435b5dd
+
+2023-04-03 20:41:55,717 INFO [dump-all-ok] doumies-gateway-gw-flow-rules+SENTINEL_GROUP, 1677826763746, length=241, md5=dd6f78c2b461edb381354f53db9c9bc5
+

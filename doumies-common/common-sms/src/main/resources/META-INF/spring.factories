@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.doumies.common.sms.config.AliyunSmsProperties,\
+  com.doumies.common.sms.service.AliyunSmsService

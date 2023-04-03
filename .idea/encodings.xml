@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-admin/admin-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-admin/admin-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common/common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common/common-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common/common-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common/common-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common/common-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common/common-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common/common-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-common/common-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-mcs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-mcs/mcs-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-mcs/mcs-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-ocs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-ocs/ocs-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-ocs/ocs-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-pcs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-pcs/pcs-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-pcs/pcs-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-ucs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-ucs/ucs-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/doumies-ucs/ucs-boot" charset="UTF-8" />
+  </component>
+</project>

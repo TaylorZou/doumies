@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.doumies.common.redis.RedisConfig,\
+  com.doumies.common.redis.BusinessNoGenerator,\
+  com.doumies.common.redis.utils.RedisUtils,\
+  com.doumies.common.redis.redisson.RedissonConfig,\
+  com.doumies.common.redis.cache.RedisCacheConfig
+

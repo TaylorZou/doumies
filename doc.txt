@@ -1,0 +1,10 @@
+# 启动 Nacos
+IDEA 打开命令行终端 Terminal，输入 cd middleware/nacos/bin 切换到 Nacos 的 bin 目录，
+执行
+startup -m standalone
+启动 Nacos 服务。
+
+# 启动Redis
+redis-server redis.windows.conf
+
+# 启动seata

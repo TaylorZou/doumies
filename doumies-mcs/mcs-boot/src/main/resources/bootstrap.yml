@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: doumies-mcs
+  profiles:
+    active: dev
+
